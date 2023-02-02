@@ -1,0 +1,10 @@
+.experience {
+  padding: 10px;
+  border-right: 5px solid rgb(80, 80, 255);
+}
+
+.dot {
+  border-right: 20px solid rgb(80, 80, 255);
+  margin-right: -15px;
+  padding-right: 5px;
+}

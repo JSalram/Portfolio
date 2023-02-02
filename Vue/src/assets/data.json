@@ -1,0 +1,59 @@
+{
+  "experiences": [
+    {
+      "title": "Full Stack Java Developer",
+      "company": "Solera Inc.",
+      "workday": "Jornada Completa",
+      "dates": "Octubre 2022 - Actualidad",
+      "location": "Sevilla, Andalucía, España",
+      "modality": "Híbrido"
+    },
+    {
+      "title": "Full Stack PHP Developer",
+      "company": "Itbid Technologies S.L.",
+      "workday": "Jornada Completa",
+      "dates": "Marzo 2021 - Octubre 2022",
+      "location": "Barcelona, Cataluña, España",
+      "modality": "Remoto"
+    },
+    {
+      "title": "Profesor particular de Programación e Informática",
+      "company": "Tusclasesparticulares",
+      "workday": "Profesional independiente",
+      "dates": "Junio 2020 - Febrero 2021",
+      "location": "Barcelona, Cataluña, España",
+      "modality": "Remoto"
+    }
+  ],
+  "trainings": [
+    {
+      "title": "CFGS Desarrollo de Aplicaciones Web",
+      "college": "IES Francisco Romero Vargas",
+      "dates": "2019 - 2021",
+      "location": "Jerez de la Frontera, Cádiz, España"
+    },
+    {
+      "title": "Bachillerato Ciencias Tecnológicas",
+      "college": "IES Padre Luis Coloma",
+      "dates": "2017 - 2019",
+      "location": "Jerez de la Frontera, Cádiz, España"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Proyecto 1",
+      "description": "Descripcion 1",
+      "updated": "Updated 1"
+    },
+    {
+      "title": "Proyecto 2",
+      "description": "Descripcion 2",
+      "updated": "Updated 2"
+    },
+    {
+      "title": "Proyecto 3",
+      "description": "Descripcion 3",
+      "updated": "Updated 3"
+    }
+  ]
+}

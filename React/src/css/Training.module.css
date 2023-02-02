@@ -1,0 +1,10 @@
+.training {
+  padding: 10px;
+  border-left: 5px solid rgb(80, 80, 255);
+}
+
+.dot {
+  border-left: 20px solid rgb(80, 80, 255);
+  margin-left: -15px;
+  padding-left: 5px;
+}

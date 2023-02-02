@@ -1,0 +1,20 @@
+{
+  "navbar": {
+    "about": "Sobre mí",
+    "experience": "Experiencia",
+    "training": "Formación",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "header": {
+    "description": "Desarrollador Web Fullstack"
+  },
+  "about": {
+    "description-line-1": "Desarrollador Full Stack de Aplicaciones Web y apasionado de la programación.",
+    "description-line-2": "Me considero una persona perfeccionista y ordenada, poseo una gran capacidad de aprendizaje y una visión lógica de los problemas, pero sobre todo unas enormes ganas de crecer y formarme como programador y como persona.",
+    "description-line-3": "Mi mayor ambición es dominar todo tipo de tecnologías y ser capaz de hacerle frente a cualquier reto que se me presente."
+  },
+  "footer": {
+    "social": "Redes sociales"
+  }
+}

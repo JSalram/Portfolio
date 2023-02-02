@@ -1,0 +1,62 @@
+{
+  "experiences": [
+    {
+      "title": "Full Stack Java Developer",
+      "company": "Solera Inc.",
+      "workday": "Jornada Completa",
+      "dates": "Octubre 2022 - Actualidad",
+      "location": "Sevilla, Andalucía, España",
+      "modality": "Híbrido"
+    },
+    {
+      "title": "Full Stack PHP Developer",
+      "company": "Itbid Technologies S.L.",
+      "workday": "Jornada Completa",
+      "dates": "Marzo 2021 - Octubre 2022",
+      "location": "Barcelona, Cataluña, España",
+      "modality": "Remoto"
+    },
+    {
+      "title": "Profesor particular de Programación e Informática",
+      "company": "Tusclasesparticulares",
+      "workday": "Profesional independiente",
+      "dates": "Junio 2020 - Febrero 2021",
+      "location": "Jerez de la Frontera, Cádiz, España",
+      "modality": "Remoto"
+    }
+  ],
+  "trainings": [
+    {
+      "title": "CFGS Desarrollo de Aplicaciones Web",
+      "college": "IES Francisco Romero Vargas",
+      "dates": "2019 - 2021",
+      "location": "Jerez de la Frontera, Cádiz, España"
+    },
+    {
+      "title": "Bachillerato Ciencias Tecnológicas",
+      "college": "IES Padre Luis Coloma",
+      "dates": "2017 - 2019",
+      "location": "Jerez de la Frontera, Cádiz, España"
+    }
+  ],
+  "projects": [
+    {
+      "title": "GeoSport",
+      "description": "Aplicación para recoger todas las zonas habilitadas y/o posibles en las que practicar diversos deportes, así como su valoración correspondiente, tablón de opiniones, foros donde poder conversar y mucho más...",
+      "background": "geosport.jpg",
+      "url": "https://github.com/JSalram/GeoSport"
+    },
+    {
+      "title": "Dentalia",
+      "description": "Proyecto de Web corporativa con HTML, Sass, JavaScript, PHP y conexión a base de datos",
+      "background": "dentalia.png",
+      "url": "https://github.com/JSalram/Dentalia"
+    },
+    {
+      "title": "Cofasal",
+      "description": "Web Corporativa realizada con Wordpress",
+      "background": "cofasal.png",
+      "url": "http://cofasal.epizy.com"
+    }
+  ]
+}
